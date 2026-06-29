@@ -1,0 +1,10 @@
+Part Name,Quantity,Unit Cost (USD),Total Cost (USD),Supplier,Notes
+Seeed Studio XIAO RP2040,1,8.50,8.50,Seeed Studio,Microcontroller
+0.91 OLED Display (128x32),1,3.50,3.50,Amazon/Aliexpress,I2C Display
+MX Mechanical Switches,12,0.50,6.00,Aliexpress/Banggood,Standard clones OK
+1N4148 Diodes,12,0.05,0.60,Any electronics store,Standard SMD or through-hole
+Custom PCB (Jlcpcb/Seeedstudio),1,2.00,2.00,JLC PCB,10 pieces typical order
+3D Printed Case (Resin/FDM),1,2.00,2.00,Local 3D printer,PLA filament ~50g
+USB-C Cable,1,1.00,1.00,Generic,For programming
+Miscellaneous (solder wire/flux/etc),1,1.00,1.00,Available,Already have
+TOTAL,,,25.60,TARGET,$24.60 - Under budget! 🎉
